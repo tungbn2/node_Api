@@ -1,0 +1,4 @@
+# json web token value
+JWT_SECRET =  yourSecretKey
+
+passport.authenticate('jwt', { session: false }), 
